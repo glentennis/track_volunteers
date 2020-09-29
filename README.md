@@ -1,0 +1,1 @@
+Connects data on volunteer actions (shifts, signups) to volunteer contact data based on varying criteria (email, phone, name), depending on what's available, and pushes to a google sheet.
